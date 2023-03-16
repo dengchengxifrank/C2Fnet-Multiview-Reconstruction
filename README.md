@@ -1,6 +1,6 @@
 # C2F-net
 
-### This repo is mainly focued on Three-view reconstruction.Initial idea is from this <a href="[https:\\www.baidu.com](https://ieeexplore.ieee.org/document/9925147)">paper.</a>
+### This repo is mainly focued on Three-view reconstruction.Initial idea is from this <a href="https://ieeexplore.ieee.org/document/9925147">paper.</a>
 
 ### After reading paper 	&laquo;Contrastive Multiview Coding	&raquo;,and with the knowledge of Contrastive Learning,I add a contrastive module to lead
 * Pointclouds from same object with different views should still have similar semantic feature.
